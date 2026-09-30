@@ -10,6 +10,9 @@
     { "source": "/about", "destination": "/about/index.html" },
     { "source": "/contact", "destination": "/contact/index.html" },
     { "source": "/services", "destination": "/services/index.html" },
-    { "source": "/employment", "destination": "/employment/index.html" }
+    { "source": "/employment", "destination": "/employment/index.html" },
+    { "source": "/careers", "destination": "/employment/index.html" },
+    { "source": "/services/(.*)", "destination": "/services/index.html" },
+    { "source": "/employment/(.*)", "destination": "/employment/index.html" }
   ]
 }
