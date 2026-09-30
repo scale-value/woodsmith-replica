@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/contact-woodsmith", "destination": "/contact/index.html" },
+    { "source": "/about-woodsmith-construction", "destination": "/about/index.html" },
+    { "source": "/woodsmith-services", "destination": "/services/index.html" },
+    { "source": "/join-the-team", "destination": "/employment/index.html" },
+    { "source": "/about", "destination": "/about/index.html" },
+    { "source": "/contact", "destination": "/contact/index.html" },
+    { "source": "/services", "destination": "/services/index.html" },
+    { "source": "/employment", "destination": "/employment/index.html" }
+  ]
+}

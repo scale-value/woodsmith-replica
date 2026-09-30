@@ -1,0 +1,5 @@
+.vercel
+.openai
+source/
+dist/assets/
+preview.mjs

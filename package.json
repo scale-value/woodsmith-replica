@@ -1,0 +1,8 @@
+{
+  "name": "woodsmith-replica",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node preview.mjs"
+  }
+}
